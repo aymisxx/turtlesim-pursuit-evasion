@@ -165,7 +165,7 @@ assets/demo.mp4
 - The package name is **`turtlesim_pursuit_evasion`**.
 - The repository preserves a compact, standalone micro-project centered on feedback-based turtle pursuit in simulation.
 
-## Future Extensions
+## Potential Future Extensions
 
 Possible improvements include:
 
