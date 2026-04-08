@@ -175,8 +175,12 @@ Possible improvements include:
 - replacing random motion with a more deliberate evasion policy.
 - porting the package to ROS2.
 
+## Academic Context
+
+This work was completed in an academic context as part of **Dr. Nakul Gopalan’s CSE 598: Perception in Robotics** course at **Arizona State University**. This repository reframes that work as a compact robotics work while preserving the underlying technical ideas and implementation structure.
+
 ## License
 
-This repository includes an `MIT-LICENSE` file.
+> **MIT License**
 
 ---
